@@ -1,4 +1,5 @@
 <h1>    Keep On Dreaming 🌸</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
@@ -15,6 +16,10 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+<b>Stats Graph</b>
+
+<a href="http://www.github.com/BanuL01"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=BanuL01&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BanuL01&icon=0&color=0)](https://visitcount.itsvg.in)
